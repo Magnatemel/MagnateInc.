@@ -1,0 +1,119 @@
+body {
+    color: black;
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+    font-family: serif;
+}
+h1 {
+    margin-top: 100px;
+    padding-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.6rem;
+    color: #3797a4;
+
+}
+h2{
+   font-size: 1.25rem;
+   color: #3797a4;
+   font-weight: normal;
+   padding-bottom: 20px;
+}
+p{
+    line-height: 2;
+}
+.Introduction{
+    width: 30%;
+    margin: auto;
+}
+.top-container{
+background-color: #abf0e9; 
+position: relative;
+padding-top: 50px;
+}
+
+.middle-container{
+    margin: 100px 0;
+    background-color: white;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    right: 200px;
+    top: 200px;
+
+}
+.top-cloud{
+    position:absolute;
+    left: 200px;
+    bottom: 400px;
+}
+
+h3{
+    color: #3797a4;
+
+}
+.service-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.service-row{
+    text-align: left;
+    line-height: 2;
+}
+.boss{
+    width: 15%;
+}
+
+.Research{
+    width: 30%;
+    float: left;
+    padding-right: 30px;
+
+}
+.web{
+    width: 30%;
+    float: right;
+    padding-left: 30px;
+}
+hr{
+    border-style: dotted;
+    border-bottom: none;
+    border-top-width: 5px;
+    width: 4%;
+    border-color:#D3D3D3;
+    margin:100px auto;
+}
+
+
+
+.bottom-container{
+    background-color: #abf0e9;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+
+}
+.footer-link{
+    color: #3797a4;
+    text-align: center;
+    margin: 30px 30px;
+    text-decoration: transparent;
+}
+
+a:hover{
+    background-color: #58b4ae;
+
+}
+
+.Intro{
+    color: #3797a4;
+}
+
+.copyright{
+    color: #58b4ae;
+    margin: 20px;
+    font-size: 0.85rem;
+    padding: 20px 0 10px;
+}
